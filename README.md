@@ -6,24 +6,23 @@ This project is a Streamlit application designed to summarize and visualize resu
 
 ```
 premier-league-summary
-├── src
-│   ├── app.py                  # Main entry point for the Streamlit application
-│   ├── data
-│   │   ├── df_matches_results_stats.parquet  # Detailed match statistics
-│   │   └── df_matches_results_sumstats.parquet # Summarized match statistics
-│   ├── tabs
-│   │   ├── general_results.py  # Tab for general league results
-│   │   ├── team_results.py     # Tab for team-specific results
-│   │   └── about_me.py         # Tab with author information
-│   ├── utils
-│   │   ├── data_loader.py      # Utility functions for loading and processing data
-│   │   ├── plot_loader.py      # Utility functions for generating visualizations
-│   │   └── css_loader.py       # Utility for loading custom CSS styles
-│   ├── static
-│   │   ├── img/                # Images used in the dashboard
-│   │   └── styles/             # CSS styles for the application
-│   └── .streamlit
-│       └── config.toml         # Streamlit layout configuration
+├── app.py                  # Main entry point for the Streamlit application
+├── data
+│   ├── df_matches_results_stats.parquet  # Detailed match statistics
+│   └── df_matches_results_sumstats.parquet # Summarized match statistics
+├── tabs
+│   ├── general_results.py  # Tab for general league results
+│   ├── team_results.py     # Tab for team-specific results
+│   └── about_me.py         # Tab with author information
+├── utils
+│   ├── data_loader.py      # Utility functions for loading and processing data
+│   ├── plot_loader.py      # Utility functions for generating visualizations
+│   └── css_loader.py       # Utility for loading custom CSS styles
+├── static
+│   ├── img/                # Images used in the dashboard
+│   └── styles/             # CSS styles for the application
+├─── .streamlit
+│   └── config.toml         # Streamlit layout configuration
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project documentation
 ```
