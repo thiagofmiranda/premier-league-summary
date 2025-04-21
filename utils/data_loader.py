@@ -1,5 +1,7 @@
 import pandas as pd
+import streamlit as st
 
+@st.cache_data 
 def load_data():
     """Load all data required for the app."""
     # Load match statistics
