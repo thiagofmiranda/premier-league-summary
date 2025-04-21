@@ -1,0 +1,11 @@
+.fancy-title {
+    text-align: right;
+    color: #3c1c5c !important;
+    font-family: "Brush Script MT", cursive !important;;
+    font-size: 72px !important;
+    margin-top: 0;
+}
+/* Aplica uma cor a todo o texto do corpo da aplicação */
+p, div, h1, h2, h3, h4, h5, h6  {
+    color: #3c1c5c !important;  
+}

@@ -1,0 +1,16 @@
+# .streamlit/config.toml
+[server]
+headless = false
+enableStaticServing = true
+
+[theme]
+primaryColor="#3c1c5c"
+backgroundColor="#f3e9f7"
+secondaryBackgroundColor="#3c1c5c"
+textColor="#FFFFFF"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
