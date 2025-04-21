@@ -1,6 +1,6 @@
 # .streamlit/config.toml
 [server]
-headless = false
+headless = true
 enableStaticServing = true
 
 [theme]
