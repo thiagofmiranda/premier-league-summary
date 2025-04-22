@@ -2,6 +2,8 @@
 
 This project is a Streamlit application designed to summarize and visualize results from the Premier League using match statistics. It provides insights into match performance, team standings, and other relevant metrics.
 
+![Logo do Projeto](static/img/dashboard.jpg)
+
 ## Project Structure
 
 ```
