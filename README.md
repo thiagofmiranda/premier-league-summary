@@ -23,8 +23,8 @@ premier-league-summary
 │   └── styles/             # CSS styles for the application
 ├─── .streamlit
 │   └── config.toml         # Streamlit layout configuration
-├── requirements.txt            # Project dependencies
-└── README.md                   # Project documentation
+├── requirements.txt        # Project dependencies
+└── README.md               # Project documentation
 ```
 
 ## Features
@@ -39,7 +39,7 @@ premier-league-summary
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   [git clone https://github.com/thiagofmiranda/premier-league-summary.git
    cd premier-league-summary
    ```
 
@@ -52,7 +52,7 @@ premier-league-summary
 
 To run the Streamlit application, execute the following command in your terminal:
 ```bash
-streamlit run src/app.py
+streamlit run app.py
 ```
 
 ## Usage
