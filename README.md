@@ -2,7 +2,10 @@
 
 This project is a Streamlit application designed to summarize and visualize results from the Premier League using match statistics. It provides insights into match performance, team standings, and other relevant metrics.
 
-![Logo do Projeto](static/img/dashboard.jpg)
+You can access the current version at:
+[https://premier-league-summary.streamlit.app](https://premier-league-summary.streamlit.app)
+
+[![Logo do Projeto](static/img/dashboard.jpg)](https://premier-league-summary.streamlit.app/)
 
 ## Project Structure
 
@@ -33,7 +36,6 @@ premier-league-summary
 
 - **General Results**: View overall league statistics, including team standings, points, goals, and more.
 - **Team Results**: Explore detailed statistics for specific teams, including match performance and trends.
-- **About Me**: Learn more about the author and the purpose of the dashboard.
 - **Interactive Filters**: Customize the data displayed by selecting specific teams, matches, or metrics.
 - **Visualizations**: Generate dynamic charts and tables for better insights.
 
